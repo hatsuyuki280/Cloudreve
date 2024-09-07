@@ -28,7 +28,7 @@ require (
 	github.com/jinzhu/gorm v1.9.11
 	github.com/juju/ratelimit v1.0.1
 	github.com/mholt/archiver/v4 v4.0.0-alpha.6
-	github.com/mojocn/base64Captcha v0.0.0-20190801020520-752b1cd608b2
+	github.com/mojocn/base64Captcha v1.3.6
 	github.com/pkg/errors v0.9.1
 	github.com/pquerna/otp v1.2.0
 	github.com/qiniu/go-sdk/v7 v7.11.1
@@ -42,7 +42,7 @@ require (
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/scf v1.0.393
 	github.com/tencentyun/cos-go-sdk-v5 v0.0.0-20200120023323-87ff3bc489ac
 	github.com/upyun/go-sdk v2.1.0+incompatible
-	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
+	golang.org/x/image v0.13.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	google.golang.org/api v0.45.0
 )
